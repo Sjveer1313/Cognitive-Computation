@@ -1,4 +1,0 @@
-Hello world.
-	How are you all?
-	This is an example file
-	This line is updated
